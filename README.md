@@ -45,7 +45,7 @@ The analysis uses Superstore data from **2011–2014** and combines it with exte
 
 The full report contains the dashboard, five visualizations and their interpretations, dataset justification, data story, references, and AI acknowledgement.
 
-**[View the Full Report](report/Superstore_Retail_Analysis.pdf)**
+**[View the Full Report](Report/Superstore_Retail_Analysis.pdf)**
 
 ## Author
 
