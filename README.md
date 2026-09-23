@@ -31,7 +31,7 @@ The analysis uses Superstore data from **2011–2014** and combines it with exte
 
 ```text
 ├── README.md
-├── app.R
+├── Superstore-Retail-Analysis.R
 ├── data/
 │   ├── superstore.xlsx
 │   ├── cpi.xlsx
@@ -45,7 +45,7 @@ The analysis uses Superstore data from **2011–2014** and combines it with exte
 
 The full report contains the dashboard, five visualizations and their interpretations, dataset justification, data story, references, and AI acknowledgement.
 
-**[View the Full Report](report/superstore_retail_analysis.pdf)**
+**[View the Full Report](report/Superstore_Retail_Analysis.pdf)**
 
 ## Author
 
